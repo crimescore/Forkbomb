@@ -1,2 +1,2 @@
 # Forkbomb
-batch file that forkbombs your pc
+the easiest batch file that forkbombs your pc 
